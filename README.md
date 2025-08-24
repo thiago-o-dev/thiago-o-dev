@@ -4,7 +4,7 @@ um estudante de Ciência da Computação.
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=thiago-o-dev&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-[<img align="left" height="94px" width="75px" alt="Logo Solversys" src="https://solversys.com.br/wp-content/uploads/2024/07/Realidade-Aumentada-solver_a-827x1024.webp"/>]()
+[<img align="left" height="94px" width="75px" alt="Logo Solversys" src="https://solversys.com.br/wp-content/uploads/2024/07/Realidade-Aumentada-solver_a-827x1024.webp"/>](https://solversys.com.br)
 [**SolverSys**](https://www.solversys.com.br/) • Estágio 05/2024 á 09/2025 \
 Linguagens & Tecnologias: `C#`, `React.JS`, `Dotnet`, `Unity`, `SQL`,\
 Areas de Atuação: **Desenvolvedor Dotnet Backend**, **Desenvolvedor de jogos Unity**.
