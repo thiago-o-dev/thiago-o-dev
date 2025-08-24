@@ -7,7 +7,7 @@ um estudante de Ciência da Computação.
 [<img align="left" height="94px" width="75px" alt="Logo Solversys" src="https://solversys.com.br/wp-content/uploads/2024/07/Realidade-Aumentada-solver_a-827x1024.webp"/>](https://solversys.com.br)
 [**SolverSys**](https://www.solversys.com.br/) • Estágio 05/2024 á 09/2025 \
 Linguagens & Tecnologias: `C#`, `React.JS`, `Dotnet`, `Unity`, `SQL`,\
-Areas de Atuação: 
+Areas de Atuação: \
 **Desenvolvedor Dotnet Backend**, **Desenvolvedor de jogos Unity**.
 <br/>
 
