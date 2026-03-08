@@ -16,12 +16,9 @@ Areas de Atuação: \
 # Projetos
 ### [Rainburn](https://github.com/thiago-o-dev/rainburn)
 Jogo em progresso para a gamejam games for a change sobre a proteção da Amazônia, feito em Godot.
-
-### [Mathrizes](https://github.com/thiago-o-dev/mathrizes)
-Pagina estática para calculo de matrizes por triangulação de Gauss.
-
-### [Auxiliar De Corneta](https://github.com/thiago-o-dev/AuxDeCorneta)
+### [Auxiliar De Corneta](https://thiago-o-dev.github.io/AuxDeCorneta/)
 Projeto feito para auxilio de soms durante o serviço militar obrigatório brasileiro.
-
+### [Mathrizes](https://thiago-o-dev.github.io/Mathrizes/)
+Pagina estática para calculo de matrizes por triangulação de Gauss.
 ### [Graph, Plot, Derive](https://github.com/thiago-o-dev/graphplotderive)
 Projeto visual para exemplificar derivativas em graficos bidimensionais e tridimensionais em python.
