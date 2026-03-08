@@ -1,4 +1,4 @@
-### Bom dia, sou Thiago Henrique.
+### Bom dia, sou Thiago H.
 um estudante de Ciência da Computação.
 <br/>
 <br/>
@@ -6,15 +6,10 @@ um estudante de Ciência da Computação.
 ---
 # Experiencias de emprego
 [<img align="left" height="94px" width="75px" alt="Logo Solversys" src="https://solversys.com.br/wp-content/uploads/2024/07/Realidade-Aumentada-solver_a-827x1024.webp"/>](https://solversys.com.br)
-[**SolverSys**](https://www.solversys.com.br/) • Estágio 05/2024 á 09/2025 \
+[**SolverSys**](https://www.solversys.com.br/) • Estágio 05/2024 á 09/2025 - Periodo Integral 09/2025 até hoje
 Linguagens & Tecnologias: `C#`, `React.JS`, `Angular`, `Dotnet`, `Unity`, `SQL`,\
 Areas de Atuação: \
 **Desenvolvedor Dotnet Backend**, Frontend (React, Angular, Next.js), **Desenvolvedor de jogos Unity**.
 <br/>
 
 ---
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-o-dev&langs_count=6&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&&hide=css,html&count_private=false">
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=thiago-o-dev&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<img src="https://komarev.com/ghpvc/?username=thiago-o-dev"/>
