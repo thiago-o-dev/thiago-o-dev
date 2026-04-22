@@ -14,8 +14,9 @@ Areas de Atuação: \
 
 ---
 # Projetos
-### [Rainburn](https://github.com/thiago-o-dev/rainburn)
-Jogo em progresso para a gamejam games for a change sobre a proteção da Amazônia, feito em Godot.
+### [Rainburn](https://thiagohaga.itch.io/rainburn)
+Jogo feito para a gamejam games for a change sobre a proteção da Amazônia, feito em Godot.
+É um jogo educativo top down com alguns minigames e uma história coerente ao tema, falando sobre grilamento de terras.
 ### [Auxiliar De Corneta](https://thiago-o-dev.github.io/AuxDeCorneta/)
 Projeto feito para auxilio de soms durante o serviço militar obrigatório brasileiro.
 ### [Mathrizes](https://thiago-o-dev.github.io/Mathrizes/)
