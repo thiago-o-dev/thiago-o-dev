@@ -19,7 +19,7 @@ Jogo feito para a gamejam games for a change sobre a proteção da Amazônia, fe
 - É um jogo educativo top down com alguns minigames e uma história coerente ao tema, falando sobre grilamento de terras.
 - Atualmente é submissão **finalista para "Melhor jogo internacional"** na g4c-ggj!
 ### [Auxiliar De Corneta](https://thiago-o-dev.github.io/AuxDeCorneta/)
-Projeto feito para auxilio de soms durante o serviço militar obrigatório brasileiro.
+Projeto feito para auxilio de sons durante o serviço militar obrigatório brasileiro.
 ### [Mathrizes](https://thiago-o-dev.github.io/Mathrizes/)
 Pagina estática para calculo de matrizes por triangulação de Gauss.
 ### [Graph, Plot, Derive](https://github.com/thiago-o-dev/graphplotderive)
