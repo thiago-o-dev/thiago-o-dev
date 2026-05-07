@@ -29,5 +29,6 @@ Pagina estática para calculo de matrizes por triangulação de Gauss.
 Projeto visual para exemplificar derivativas em graficos bidimensionais e tridimensionais em python.
 ### [Super Onze 2](https://discord.gg/jJ7kyRC8fY)
 Esse é um jogo WIP para roblox nele sou primariamente animador 3D e 2D e ajudo na programação teórica, pq eu não gosto de LUA.
+Essa daqui é uma das **60** hissatsus que o jogo tem.
 
 https://github.com/user-attachments/assets/cdcd9ebb-f487-411a-8cc5-8849f0d1ec7d
