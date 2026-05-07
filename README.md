@@ -2,6 +2,12 @@
 um estudante de Ciência da Computação.
 <br/>
 <br/>
+---
+# Aulas
+abra o repositório de matérias em: https://github.com/thiago-o-dev/courses
+
+### [Introdução ao desenvolvimento de Jogos](https://thiago-o-dev.github.io/courses/)
+esse link redireciona ao site apresentação dos slides, de lá, selecione a aula desejada.
 
 ---
 # Experiencias de emprego
@@ -11,7 +17,6 @@ Linguagens & Tecnologias: `C#`, `React.JS`, `Angular`, `Dotnet`, `Unity`, `SQL`,
 Areas de Atuação: \
 **Desenvolvedor Dotnet Backend**, Frontend (React, Angular, Next.js), **Desenvolvedor de jogos Unity**.
 <br/>
-
 ---
 # Projetos
 ### [Rainburn](https://thiagohaga.itch.io/rainburn)
