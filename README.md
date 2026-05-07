@@ -6,7 +6,7 @@ um estudante de Ciência da Computação.
 # Aulas
 abra o repositório de matérias em: https://github.com/thiago-o-dev/courses
 
-### [Introdução ao desenvolvimento de Jogos](https://thiago-o-dev.github.io/courses/)
+## [Introdução ao desenvolvimento de Jogos](https://thiago-o-dev.github.io/courses/)
 esse link redireciona ao site apresentação dos slides, de lá, selecione a aula desejada.
 
 ---
