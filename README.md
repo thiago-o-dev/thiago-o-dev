@@ -21,6 +21,14 @@ Areas de Atuação: \
 Jogo feito para a gamejam games for a change sobre a proteção da Amazônia, feito em Godot.
 - É um jogo educativo top down com alguns minigames e uma história coerente ao tema, falando sobre grilamento de terras.
 - Atualmente é submissão **finalista para "Melhor jogo internacional"** na g4c-ggj!
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8fff0fa9-e5f3-4494-aef4-3529494032fe" width="25%" height="220px" style="object-fit: cover;" />
+  <img src="https://img.itch.zone/aW1hZ2UvNDQyMzM4Ny8yNjQxNDMxNS5wbmc=/original/VA1aJI.png" width="35%" height="220px" style="object-fit: cover;" />
+  <img src="https://img.itch.zone/aW1hZ2UvNDQyMzM4Ny8yNjQxNDE4NS5wbmc=/original/byAr8Z.png" width="36%" height="220px" style="object-fit: cover;" />
+</p>
+
+
 ### [Auxiliar De Corneta](https://thiago-o-dev.github.io/AuxDeCorneta/)
 Projeto feito para auxilio de sons durante o serviço militar obrigatório brasileiro.
 ### [Mathrizes](https://thiago-o-dev.github.io/Mathrizes/)
@@ -29,6 +37,7 @@ Pagina estática para calculo de matrizes por triangulação de Gauss.
 Projeto visual para exemplificar derivativas em graficos bidimensionais e tridimensionais em python.
 ### [Super Onze 2](https://discord.gg/jJ7kyRC8fY)
 Esse é um jogo WIP para roblox nele sou primariamente animador 3D e 2D e ajudo na programação teórica, pq eu não gosto de LUA.
+
 Essa daqui é uma das **60** hissatsus que o jogo tem.
 
 https://github.com/user-attachments/assets/cdcd9ebb-f487-411a-8cc5-8849f0d1ec7d
