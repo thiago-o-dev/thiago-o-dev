@@ -30,7 +30,9 @@ Jogo feito para a gamejam games for a change sobre a proteção da Amazônia, fe
 
 
 ### [Auxiliar De Corneta](https://thiago-o-dev.github.io/AuxDeCorneta/)
-Projeto feito para auxilio de sons durante o serviço militar obrigatório brasileiro.
+Projeto feito para auxilio de sons durante o serviço militar obrigatório brasileiro. 
+
+(sou cabo nao me julguem)
 ### [Mathrizes](https://thiago-o-dev.github.io/Mathrizes/)
 Pagina estática para calculo de matrizes por triangulação de Gauss.
 ### [Graph, Plot, Derive](https://github.com/thiago-o-dev/graphplotderive)
