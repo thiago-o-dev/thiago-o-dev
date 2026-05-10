@@ -28,7 +28,10 @@ Jogo feito para a gamejam games for a change sobre a proteção da Amazônia, fe
   <img src="https://img.itch.zone/aW1hZ2UvNDQyMzM4Ny8yNjQxNDE4NS5wbmc=/original/byAr8Z.png" width="36%" height="220px" style="object-fit: cover;" />
 </p>
 
+### [AllUni](https://github.com/Pedro-Taiette/AllUni)
+Projeto legal com TDD (Test Driven Development) que eu e meus amigos fizemos para apresentar na faculdade, ele tinha o foco de se juntar com o moodle mas nunca colocamos a parte do moodle pra funcionar, mas ele tem notas, calendario e pa.
 
+Bem daora, no github-pages dele vc pode encontrar o coverage final que conseguimos no projeto, que foi 100%.
 ### [Auxiliar De Corneta](https://thiago-o-dev.github.io/AuxDeCorneta/)
 Projeto feito para auxilio de sons durante o serviço militar obrigatório brasileiro. 
 
