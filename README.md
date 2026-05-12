@@ -16,7 +16,7 @@ Areas de Atuação: \
 <br/>
 
 ---
-## Projetos
+## Alguns Projetos
 ### [Rainburn](https://thiagohaga.itch.io/rainburn)
 Jogo feito para a gamejam games for a change sobre a proteção da Amazônia, feito em Godot.
 - É um jogo educativo top down com alguns minigames e uma história coerente ao tema, falando sobre grilamento de terras.
