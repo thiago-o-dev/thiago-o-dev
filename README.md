@@ -34,7 +34,9 @@ Projeto legal com TDD (Test Driven Development) que eu e meus amigos fizemos par
 Bem daora, no github-pages dele vc pode encontrar o coverage final que conseguimos no projeto, que foi 100%.
 
 ### [Acesso DMA em um ESP32 simulado em um Wokwi](https://wokwi.com/projects/463517973182517249)
-Ta aqui pq eu preciso acessar em umas apresentações, é daora, a gente inicia um canal dma e dele alteramos variaveis, sem mexer pela cpu, mt rápido, pouco seguro.
+Ta aqui pq eu preciso acessar em umas apresentações, é daora.
+
+Iniciamos um canal DMA, alteramos variaveis sem mexer pela cpu de forma muito rápida mas pouco segura.
 
 ### [Auxiliar De Corneta](https://thiago-o-dev.github.io/AuxDeCorneta/)
 Projeto feito para auxilio de sons durante o serviço militar obrigatório brasileiro. 
